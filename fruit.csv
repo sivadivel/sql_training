@@ -1,0 +1,13 @@
+id,type,color,is_round,price_per_pound,weight,price,customer_id,sold_date
+4,banana,yellow,no,0.75,0.7,0.53,3,2018-07-06
+5,banana,yellow,no,0.75,0.75,0.56,2,2018-07-05
+8,lemon,yellow,no,2.25,0.2,0.45,2,2018-07-07
+9,lemon,yellow,no,2.25,0.22,0.5,3,2018-07-07
+10,lemon,yellow,no,2.25,0.19,0.43,2,2018-07-08
+11,lime,green,no,2.4,0.18,0.43,1,2018-07-07
+12,lime,green,no,2.4,0.17,0.41,2,2018-07-08
+1,apple,red,yes,1.25,0.6,0.75,2,2018-07-04
+2,apple,red,yes,1.25,0.55,0.69,1,2018-07-02
+3,apple,green,yes,1.15,0.4,0.46,1,2018-07-03
+6,orange,orange,yes,1.45,0.5,0.73,3,2018-07-06
+7,orange,orange,yes,1.45,0.45,0.65,1,2018-07-05
